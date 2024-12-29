@@ -1,5 +1,6 @@
 staticmap
 os
+geopy
 typing
 dataclasses
 requests
@@ -9,6 +10,7 @@ pandas
 bs4 
 numpy
 networkx
+simplekml
 sklearn
 haversine
 csv
