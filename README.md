@@ -18,17 +18,18 @@
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
-| 🏗️ **Project** | 📝 **Description** |
-|:---:|:---|
+| **Project** | **Description** |
+|:---|:---|
 | <a href="https://github.com/onasiscart/te_tela">**2D Strip Packing Optimization**</a><br>*(Te Tela)* | **Combinatorial Optimization & Metaheuristics**<br><br>Implemented three algorithmic approaches to solve the NP-hard 2D Strip Packing problem:<br>• **Exhaustive Search**: Branch & Bound with advanced pruning.<br>• **Greedy Algorithm**: Area-based heuristic (O(n log n)).<br>• **Genetic Algorithm**: Population-based metaheuristic with custom crossover.<br><br>[![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)](#) [![Optimization](https://img.shields.io/badge/Algorithm-Optimization-red?style=flat-square)](#) |
 | <a href="https://github.com/onasiscart/BDA_proj1">**Aviation Fleet Analytics**</a><br>*(Data Warehouse)* | **Big Data Architecture & ETL**<br><br>End-to-end data warehouse solution for aviation performance analysis. Designed a star schema optimized for OLAP queries, achieving **40-50x query speedup**. Implemented rigorous data quality controls and calculated industry-standard KPIs.<br><br>[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](#) [![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=flat-square&logo=duckdb&logoColor=black)](#) [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)](#) |
+| <a href="https://github.com/jcorbalanv/projects/tree/main/Liver_Disease_Classification">**Liver Disease Classification**</a><br>*(Machine Learning)* | **Binary Classification & Healthcare Analytics**<br><br>Developed supervised learning models to classify liver disease patients. Mitigated class imbalance using weighted ensembles and optimized for F1-score. Achieved competitive performance with Gaussian Naive Bayes for interpretability.<br><br>[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](#) [![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)](#) |
 | <a href="https://github.com/jordicorbalanvilaplana/rutes_i_monuments">**Routes i Monuments**</a><br>*(Graph Theory)* | **Geospatial Analysis & Algorithms**<br><br>Developed a route generation engine combining GPS trajectory analysis with graph theory. Identifies optimal paths to medieval monuments across Catalonia, featuring custom visualization of geospatial data.<br><br>[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](#) [![Graph Theory](https://img.shields.io/badge/Math-Graph%20Theory-orange?style=flat-square)](#) |
 
 ---
 
-## 🛠️ Technical Skills
+## Technical Skills
 
 <div align="center">
 
