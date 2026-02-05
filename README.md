@@ -24,9 +24,9 @@
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
-| 🏗️ **Project** | 📝 **Description** |
+| **Project** | **Description** |
 |:---|:---|
 | <a href="https://github.com/onasiscart/te_tela">**2D Strip Packing Optimization**</a><br>*(Te Tela)* | **Combinatorial Optimization & Metaheuristics**<br><br>Implemented three algorithmic approaches to solve the NP-hard 2D Strip Packing problem:<br>• **Exhaustive Search**: Branch & Bound with advanced pruning.<br>• **Greedy Algorithm**: Area-based heuristic (O(n log n)).<br>• **Genetic Algorithm**: Population-based metaheuristic with custom crossover.<br><br>[![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&amp;logo=c%2B%2B&amp;logoColor=white)](#) [![Optimization](https://img.shields.io/badge/Algorithm-Optimization-red?style=flat-square)](#) |
 | <a href="https://github.com/onasiscart/BDA_proj1">**Aviation Fleet Analytics**</a><br>*(Data Warehouse)* | **Big Data Architecture & ETL**<br><br>End-to-end data warehouse solution for aviation performance analysis. Designed a star schema optimized for OLAP queries, achieving **40-50x query speedup**. Implemented rigorous data quality controls and calculated industry-standard KPIs.<br><br>[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&amp;logo=python&amp;logoColor=white)](#) [![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=flat-square&amp;logo=duckdb&amp;logoColor=black)](#) [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&amp;logo=postgresql&amp;logoColor=white)](#) |
@@ -35,7 +35,7 @@
 
 ---
 
-## 🛠️ Technical Skills
+## Technical Skills
 
 <div align="center">
 
