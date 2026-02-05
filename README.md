@@ -1,4 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=0077B5,3776AB,00599C&amp;height=250&amp;section=header&amp;text=Jordi%20Corbalan%20Vilaplana&amp;fontSize=40&amp;fontColor=ffffff&amp;desc=Data%20Science%20%26%20Engineering%20Student&amp;descSize=20&amp;descAlignY=60)
+![Header](https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;height=200&amp;section=header&amp;text=Jordi%20Corbalan%20Vilaplana&amp;fontSize=50)
 
 <div align="center">
 
