@@ -5,7 +5,7 @@
   *Universitat Politècnica de Catalunya (UPC)*
 
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white)](https://www.linkedin.com/in/jordicorbalanvilaplana/)
-  [![GitHub](https://img.shields.io/badge/GitHub-Follow-100000?style=for-the-badge&amp;logo=github&amp;logoColor=white)](https://github.com/jordicorbalanvilaplana)
+  [![GitHub](https://img.shields.io/badge/GitHub-Follow-100000?style=for-the-badge&amp;logo=github&amp;logoColor=white)](https://github.com/jcorbalanv)
 
   <br>
 
@@ -18,8 +18,8 @@
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jordicorbalanvilaplana&amp;show_icons=true&amp;theme=radical&amp;hide_border=true&amp;count_private=true" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jordicorbalanvilaplana&amp;layout=compact&amp;theme=radical&amp;hide_border=true" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=jcorbalanv&amp;show_icons=true&amp;theme=radical&amp;hide_border=true&amp;count_private=true" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jcorbalanv&amp;layout=compact&amp;theme=radical&amp;hide_border=true" height="150" alt="languages graph"  />
 </div>
 
 ---
