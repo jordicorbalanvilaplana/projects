@@ -1,0 +1,5 @@
+params,mean_test_accuracy,mean_test_f1_macro,mean_test_precision_macro,mean_test_recall_macro,mean_test_f1_class0,mean_test_recall_class0
+"{'C': 100, 'class_weight': 'balanced', 'gamma': 0.01, 'kernel': 'rbf', 'shrinking': False}",0.8199438990182328,0.7980921028668639,0.7883230785342269,0.8317146590280919,0.8638609393669638,0.8041700587969244
+"{'C': 100, 'class_weight': 'balanced', 'gamma': 'scale', 'kernel': 'rbf', 'shrinking': False}",0.8125993454885461,0.7814141432940628,0.7729384940788635,0.7975285576778114,0.8636759776480161,0.8326639529624604
+"{'C': 10, 'class_weight': 'balanced', 'gamma': 'scale', 'kernel': 'rbf', 'shrinking': False}",0.7732491818606826,0.7484650068792973,0.7423301496943115,0.7835657377448423,0.8265998470950983,0.7594391677973767
+"{'C': 10, 'class_weight': 'balanced', 'gamma': 0.01, 'kernel': 'rbf', 'shrinking': False}",0.7352921926133706,0.7211382390865196,0.734427398217556,0.7843275464170987,0.7817557082936918,0.6700226142017186
