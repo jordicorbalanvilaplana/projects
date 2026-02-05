@@ -1,4 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2193b0,6dd5ed&height=200&section=header&text=Jordi%20Corbalan%20Vilaplana&fontSize=50)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=00d2ff,3a7bd5&height=200&section=header&text=Jordi%20Corbalan%20Vilaplana&fontSize=50&v=1)
 
 <div align="center">
 
