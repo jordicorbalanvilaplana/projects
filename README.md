@@ -1,25 +1,48 @@
-# Personal Projects Repository  
+# Jordi Corbalan Vilaplana
 
-Welcome to my personal projects repository! Here, I upload projects I've worked on related to data science and engineering. Each project represents a learning experience, showcasing my growth and skills in the field.  
+**Data Science & Engineering Student** at Universitat Politecnica de Catalunya (UPC)
 
-## Projects  
-
-### 1. [Routes i Monuments](https://github.com/jordicorbalanvilaplana/rutes_i_monuments)  
-   - **Description**: This project focuses on generating maps from GPS trajectories collected by hikers. Its goal is to identify optimal routes to the nearest medieval buildings in Catalonia and provide a clear visualization of the results.  
-   - **Context**: Developed as part of the *Algorithmics and Programming 2* subject, which is part of the Bachelor's degree in Data Science and Engineering at the UPC.  
-   - **Highlights**:  
-     - Applied graph theory to compute the shortest routes among GPS locations.  
-     - Designed and implemented clear result visualizations.  
-
-### 2. [Aviation Fleet Analytics Data Warehouse](https://github.com/onasiscart/BDA_proj1)  
-   - **Description**: A complete ETL pipeline and analytical data warehouse for aviation fleet performance analysis. Processes flight operations data from PostgreSQL and loads it into a DuckDB data warehouse optimized for computing aircraft utilization and reliability KPIs.  
-   - **Context**: Developed as part of the *Advanced Databases (BDA)* subject in the Bachelor's degree in Data Science and Engineering at the UPC. Collaboration with Ona Siscart Noguer.  
-   - **Highlights**:  
-     - Designed a star schema with 3 dimensions and 2 fact tables.  
-     - Implemented ETL pipeline using pygrametl with data quality controls.  
-     - Achieved 40-50x query speedup compared to source system queries.  
-     - Computed industry-standard aviation KPIs (utilization, reliability, reporting rates).  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jordicorbalanvilaplana/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/jordicorbalanvilaplana)
 
 ---
 
-Stay tuned for more projects as I continue my journey in data science and engineering!  
+## Featured Projects
+
+### [Aviation Fleet Analytics Data Warehouse](https://github.com/onasiscart/BDA_proj1)
+
+A complete ETL pipeline and analytical data warehouse for aviation fleet performance analysis.
+
+| | |
+|---|---|
+| **Tech Stack** | Python, DuckDB, pygrametl, PostgreSQL, pandas |
+| **Key Results** | 40-50x query speedup, star schema with 3 dimensions and 2 fact tables |
+| **Context** | Advanced Databases (BDA) - UPC · Collaboration with Ona Siscart |
+
+**Highlights:**
+- Designed a star schema optimized for OLAP queries on flight operations data
+- Implemented data quality controls for overlapping flights and invalid records
+- Computed industry-standard aviation KPIs (utilization, reliability, reporting rates)
+
+---
+
+### [Routes i Monuments](https://github.com/jordicorbalanvilaplana/rutes_i_monuments)
+
+Map generation from GPS trajectories to identify optimal routes to medieval buildings in Catalonia.
+
+| | |
+|---|---|
+| **Tech Stack** | Python, Graph Algorithms, Data Visualization |
+| **Context** | Algorithmics and Programming 2 - UPC |
+
+**Highlights:**
+- Applied graph theory to compute shortest routes among GPS locations
+- Designed clear visualizations for route analysis results
+
+---
+
+## About Me
+
+I'm a Data Science and Engineering student passionate about building data-driven solutions. My interests include data engineering, machine learning, and software development.
+
+Currently expanding my skills through academic projects and hands-on experience with modern data technologies.
