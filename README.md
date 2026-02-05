@@ -28,14 +28,13 @@
 
 ---
 
-## Technical Skills
+## Technical Proficiency
 
 <div align="center">
 
-| **Core** | **Data & ML** | **Tools & Platforms** |
-|:---:|:---:|:---:|
-| ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&amp;logo=c%2B%2B&amp;logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&amp;logo=python&amp;logoColor=white) | ![Pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&amp;logo=pandas&amp;logoColor=white) ![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=for-the-badge&amp;logo=duckdb&amp;logoColor=black) | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&amp;logo=git&amp;logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&amp;logo=docker&amp;logoColor=white) |
-| ![Algorithms](https://img.shields.io/badge/Algorithms-Complexity-red?style=for-the-badge) | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&amp;logo=postgresql&amp;logoColor=white) | ![Unix](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&amp;logo=linux&amp;logoColor=black) |
+| **Professional Skills** | **Technical & IT Skills** | **Soft Skills** |
+| :--- | :--- | :--- |
+| • Mathematical Modelling<br>• Deep Learning & ML<br>• Statistical Modelling<br>• Product Data Management<br>• Project Management<br>• Digital Problem Solving<br>• Prototype Development<br>• Data Warehousing<br>• Stakeholder Negotiation<br>• Data Visualization | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)<br>![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)<br>![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)<br>![Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat-square&logo=apache-spark&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)<br>![MATLAB](https://img.shields.io/badge/MATLAB-ED8B00?style=flat-square&logo=mathworks&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)<br>![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)<br>![ETL](https://img.shields.io/badge/Data-ETL-blue?style=flat-square) ![Graph](https://img.shields.io/badge/NetworkX-orange?style=flat-square) | • Communication<br>• Critical Analysis<br>• Problem Solving<br>• Team-oriented<br>• Analytical Thinking<br>• Organization<br>• Strategic Planning |
 
 </div>
 
