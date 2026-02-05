@@ -1,48 +1,46 @@
 # Jordi Corbalan Vilaplana
 
-**Data Science & Engineering Student** at Universitat Politecnica de Catalunya (UPC)
+<div align="center">
+  
+  **Data Science & Engineering Student**  
+  *Universitat Politècnica de Catalunya (UPC)*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jordicorbalanvilaplana/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/jordicorbalanvilaplana)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jordicorbalanvilaplana/)
+  [![GitHub](https://img.shields.io/badge/GitHub-Follow-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jordicorbalanvilaplana)
 
----
+  <br>
 
-## Featured Projects
+  <p align="center">
+    Driving insights through data, algorithms, and efficient engineering. Passionate about building scalable solutions and solving complex optimization challenges.
+  </p>
 
-### [Aviation Fleet Analytics Data Warehouse](https://github.com/onasiscart/BDA_proj1)
-
-A complete ETL pipeline and analytical data warehouse for aviation fleet performance analysis.
-
-| | |
-|---|---|
-| **Tech Stack** | Python, DuckDB, pygrametl, PostgreSQL, pandas |
-| **Key Results** | 40-50x query speedup, star schema with 3 dimensions and 2 fact tables |
-| **Context** | Advanced Databases (BDA) - UPC · Collaboration with Ona Siscart |
-
-**Highlights:**
-- Designed a star schema optimized for OLAP queries on flight operations data
-- Implemented data quality controls for overlapping flights and invalid records
-- Computed industry-standard aviation KPIs (utilization, reliability, reporting rates)
+</div>
 
 ---
 
-### [Routes i Monuments](https://github.com/jordicorbalanvilaplana/rutes_i_monuments)
+## 🚀 Featured Projects
 
-Map generation from GPS trajectories to identify optimal routes to medieval buildings in Catalonia.
-
-| | |
-|---|---|
-| **Tech Stack** | Python, Graph Algorithms, Data Visualization |
-| **Context** | Algorithmics and Programming 2 - UPC |
-
-**Highlights:**
-- Applied graph theory to compute shortest routes among GPS locations
-- Designed clear visualizations for route analysis results
+| 🏗️ **Project** | 📝 **Description** |
+|:---:|:---|
+| <a href="https://github.com/onasiscart/te_tela">**2D Strip Packing Optimization**</a><br>*(Te Tela)* | **Combinatorial Optimization & Metaheuristics**<br><br>Implemented three algorithmic approaches to solve the NP-hard 2D Strip Packing problem:<br>• **Exhaustive Search**: Branch & Bound with advanced pruning.<br>• **Greedy Algorithm**: Area-based heuristic (O(n log n)).<br>• **Genetic Algorithm**: Population-based metaheuristic with custom crossover.<br><br>[![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)](#) [![Optimization](https://img.shields.io/badge/Algorithm-Optimization-red?style=flat-square)](#) |
+| <a href="https://github.com/onasiscart/BDA_proj1">**Aviation Fleet Analytics**</a><br>*(Data Warehouse)* | **Big Data Architecture & ETL**<br><br>End-to-end data warehouse solution for aviation performance analysis. Designed a star schema optimized for OLAP queries, achieving **40-50x query speedup**. Implemented rigorous data quality controls and calculated industry-standard KPIs.<br><br>[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](#) [![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=flat-square&logo=duckdb&logoColor=black)](#) [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)](#) |
+| <a href="https://github.com/jordicorbalanvilaplana/rutes_i_monuments">**Routes i Monuments**</a><br>*(Graph Theory)* | **Geospatial Analysis & Algorithms**<br><br>Developed a route generation engine combining GPS trajectory analysis with graph theory. Identifies optimal paths to medieval monuments across Catalonia, featuring custom visualization of geospatial data.<br><br>[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](#) [![Graph Theory](https://img.shields.io/badge/Math-Graph%20Theory-orange?style=flat-square)](#) |
 
 ---
 
-## About Me
+## 🛠️ Technical Skills
 
-I'm a Data Science and Engineering student passionate about building data-driven solutions. My interests include data engineering, machine learning, and software development.
+<div align="center">
 
-Currently expanding my skills through academic projects and hands-on experience with modern data technologies.
+| **Core** | **Data & ML** | **Tools & Platforms** |
+|:---:|:---:|:---:|
+| ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | ![Pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=flat-square&logo=duckdb&logoColor=black) | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) |
+| ![Algorithms](https://img.shields.io/badge/Algorithms-Complexity-red?style=flat-square) | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white) | ![Unix](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) |
+
+</div>
+
+---
+
+<p align="center">
+  <i>Seeking opportunities in Data Science, Data Engineering, and Algorithmic Optimization.</i>
+</p>
