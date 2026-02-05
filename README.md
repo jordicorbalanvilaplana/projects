@@ -1,4 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=00c6ff,0072ff&height=200&section=header&text=Jordi%20Corbalan%20Vilaplana&fontSize=50)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2193b0,6dd5ed&height=200&section=header&text=Jordi%20Corbalan%20Vilaplana&fontSize=50)
 
 <div align="center">
 
@@ -13,13 +13,6 @@
     Driving insights through data, algorithms, and efficient engineering. Passionate about building scalable solutions and solving complex optimization challenges.
   </p>
 
-</div>
-
----
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jcorbalanv&show_icons=true&theme=radical&hide_border=true" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jcorbalanv&layout=compact&theme=radical&hide_border=true" height="150" alt="languages graph"  />
 </div>
 
 ---
