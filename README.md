@@ -1,4 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;height=200&amp;section=header&amp;text=Jordi%20Corbalan%20Vilaplana&amp;fontSize=50)
+![Header](https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=2C3E50,4CA1AF&amp;height=200&amp;section=header&amp;text=Jordi%20Corbalan%20Vilaplana&amp;fontSize=50)
 
 <div align="center">
 
@@ -18,8 +18,8 @@
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jcorbalanv&amp;show_icons=true&amp;theme=radical&amp;hide_border=true&amp;count_private=true" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jcorbalanv&amp;layout=compact&amp;theme=radical&amp;hide_border=true" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=jordicorbalanvilaplana&amp;show_icons=true&amp;theme=radical&amp;hide_border=true&amp;count_private=true" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jordicorbalanvilaplana&amp;layout=compact&amp;theme=radical&amp;hide_border=true" height="150" alt="languages graph"  />
 </div>
 
 ---
