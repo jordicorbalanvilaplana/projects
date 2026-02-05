@@ -1,5 +1,0 @@
-params,mean_test_accuracy,mean_test_f1_macro,mean_test_precision_macro,mean_test_recall_macro,mean_test_f1_class0,mean_test_recall_class0
-"{'C': 100, 'class_weight': 'balanced', 'gamma': 0.01, 'kernel': 'rbf', 'shrinking': False}",0.7983169705469847,0.7764996719156833,0.7688762195794737,0.8142579256012092,0.8455766764963484,0.7770058796924469
-"{'C': 100, 'class_weight': 'balanced', 'gamma': 'scale', 'kernel': 'rbf', 'shrinking': False}",0.8034876110331932,0.7708983722893149,0.7633440553213283,0.7868596798447544,0.8568326319521445,0.8254002713704206
-"{'C': 10, 'class_weight': 'balanced', 'gamma': 'scale', 'kernel': 'rbf', 'shrinking': False}",0.7671949509116409,0.7429644418735504,0.737719279470017,0.7796651551875432,0.821017447592368,0.7503844414292175
-"{'C': 10, 'class_weight': 'balanced', 'gamma': 0.01, 'kernel': 'rbf', 'shrinking': False}",0.7370032725572696,0.7212548800355763,0.7315869658026857,0.7800456536277431,0.7853888332144574,0.679692446856626
